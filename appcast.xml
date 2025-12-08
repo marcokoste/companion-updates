@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Companion Updates</title>
+    <link>https://github.com/marcokoste/companion-updates</link>
+    <description>Update feed for Companion</description>
+    <language>en-us</language>
+  </channel>
+</rss>
