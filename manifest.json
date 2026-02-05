@@ -21,6 +21,18 @@
           "sha256": "5bee517b1f81aa43d9fd1709d374de8e340f056e1315106d5e282f5796b8f76a"
         }
       }
+    },
+    "cleandl": {
+      "name": "CleanDL Addon",
+      "description": "",
+      "currentVersion": "1.0.0",
+      "platforms": {
+        "universal": {
+          "url": "https://github.com/marcokoste/scriptflip-releases/releases/download/cleandl-v1.0.0/cleandl-1.0.0.tar.gz",
+          "size": 8376966,
+          "sha256": "1a7abafd50d252236533a8f7e442e6ddd72239226e925fa7e52799a11b048707"
+        }
+      }
     }
   }
 }
