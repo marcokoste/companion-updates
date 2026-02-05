@@ -10,11 +10,11 @@
     },
     "cleandl-standalone": {
       "name": "CleanDL Standalone",
-      "currentVersion": "0.1.1",
+      "currentVersion": "0.1.2",
       "minOSVersion": "12.0",
-      "url": "https://github.com/marcokoste/scriptflip-releases/releases/download/cleandl-standalone-v0.1.1/CleanDL_0.1.1_universal.dmg",
-      "size": 11558546,
-      "sha256": "95f2e5e34924585899504282fd425f8db30610ac2d8df1243719b118d70ae257"
+      "url": "https://github.com/marcokoste/scriptflip-releases/releases/download/cleandl-standalone-v0.1.2/CleanDL_0.1.2_universal.dmg",
+      "size": 11561754,
+      "sha256": "1f2015d78da4a8831a58b72655c0c44bfa382f815692276b88c826859cdba670"
     }
   },
   "addons": {
