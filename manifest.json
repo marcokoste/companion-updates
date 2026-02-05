@@ -28,6 +28,18 @@
           "sha256": "ed09c8c934da1ab5345a8b6210806364a40c3c297f380a875d9f1bdaa24f30a5"
         }
       }
+    },
+    "scenex": {
+      "name": "SceneX",
+      "description": "",
+      "currentVersion": "1.0.0",
+      "platforms": {
+        "darwin-arm64": {
+          "url": "https://github.com/marcokoste/scriptflip-releases/releases/download/scenex-v1.0.0/scenex-1.0.0-darwin-arm64.tar.gz",
+          "size": 488598221,
+          "sha256": "5bee517b1f81aa43d9fd1709d374de8e340f056e1315106d5e282f5796b8f76a"
+        }
+      }
     }
   }
 }
