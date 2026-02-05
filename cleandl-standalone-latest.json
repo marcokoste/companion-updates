@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "CleanDL Standalone v0.1.1",
+  "pub_date": "2026-02-05T18:38:55.126Z",
+  "platforms": {
+    "darwin-universal": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFRyTTFpbEgzV0w2N0NVQ0RGT2lBN1Q2UkZ5QlZBbncvc01ienJGeVlLSHcvQU1wdzZ3L2JhMENWZ3FjREdsUmlUUEIyUG03Ui92Tlg0cGU2MUZNaUMxS0xhSzhqRlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMzE2NzM1CWZpbGU6Q2xlYW5ETF8wLjEuMV91bml2ZXJzYWwuYXBwLnppcAo2VHY0dXhVNVJOcmpubWVkSzVHdW9wZHNSRlh0TVZrZkZKRXpDYU8wblVtc0hyTmhYVFcwa0FVNXNmSVZ6YnJXNVhsa0tnT2dCWGRGUThUY3N3cTdBZz09Cg==",
+      "url": "https://github.com/marcokoste/scriptflip-releases/releases/download/cleandl-standalone-v0.1.1/CleanDL_0.1.1_universal.app.zip"
+    }
+  }
+}
