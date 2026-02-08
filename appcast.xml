@@ -6,6 +6,17 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 1.2.2</title>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/marcokoste/scriptflip-releases/main/releases/shortquts-v1.2.2.html</sparkle:releaseNotesLink>
+            <pubDate>Sat, 07 Feb 2026 23:41:57 -0800</pubDate>
+            <enclosure url="https://github.com/marcokoste/scriptflip-releases/releases/download/shortquts-v1.2.2/ScriptFlip.ShortQuts-1.2.2.zip"
+                       sparkle:version="1.2.2"
+                       sparkle:shortVersionString="1.2.2"
+                       length="9909640"
+                       type="application/octet-stream" />
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        </item>
+        <item>
             <title>Version 1.2.1</title>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/marcokoste/shortquts-updates/main/releases/1.2.1.html</sparkle:releaseNotesLink>
             <pubDate>Thu, 18 Dec 2025 10:11:53 -0800</pubDate>
