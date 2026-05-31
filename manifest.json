@@ -2,11 +2,11 @@
   "apps": {
     "companion": {
       "name": "Companion",
-      "currentVersion": "1.3.2",
+      "currentVersion": "1.3.3",
       "minOSVersion": "12.0",
-      "url": "https://github.com/marcokoste/scriptflip-releases/releases/download/companion-v1.3.2/Companion-1.3.2-universal.dmg",
-      "size": 28526437,
-      "sha256": "eacaa75ada4adb82d344bd2a8f8cba2db4a4e9b96972525d2c06b5d8613b2ea0"
+      "url": "https://github.com/marcokoste/scriptflip-releases/releases/download/companion-v1.3.3/Companion-1.3.3-universal.dmg",
+      "size": 28502268,
+      "sha256": "4f01bfed5f2709d9576fcb11a91debd07c9b81faa7393d80e77a61b133adaa64"
     }
   },
   "addons": {
