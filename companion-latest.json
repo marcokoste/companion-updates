@@ -1,15 +1,15 @@
 {
-  "version": "1.3.3",
-  "notes": "Companion v1.3.3",
-  "pub_date": "2026-05-31T02:30:41.008Z",
+  "version": "1.3.4",
+  "notes": "Companion v1.3.4",
+  "pub_date": "2026-05-31T02:34:08.767Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFRyTTFpbEgzV0cvK2JiTmFvcHFvYmJ3MnpkWkpYcUUzeFdYSk1ySUNQNXE1d2ovamlCUUZqWC9acml6bURJbDRBbFVtSkRoSm5qRGl1ZGlWbTlDSGJIditaUmtWRHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTk0NjQwCWZpbGU6Q29tcGFuaW9uLTEuMy4zLXVuaXZlcnNhbC5hcHAudGFyLmd6Ck5PUll0akIwSVlRRkhITTNJRnk4SFJCR1ZuOUlQcXhXSXpjay91ZkY0Smg0REp2K2gxa3ovNnNjNnY4NldRcUNoclRMUlQvODBsMXUwcVlDTWFzbEN3PT0K",
-      "url": "https://github.com/marcokoste/scriptflip-releases/releases/download/companion-v1.3.3/Companion-1.3.3-universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFRyTTFpbEgzV0RHMlJwQUd1RVZIT2FLc0NnL3FhSWJ6aGRvN0dQYUtBdnRHT05NY0w1L2pvcm1tcm42L1djeDJxL2J4ZmtTMHJBSDk5M1lucnczZ0NBT0NpUzl2UGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTk0ODQ4CWZpbGU6Q29tcGFuaW9uLTEuMy40LXVuaXZlcnNhbC5hcHAudGFyLmd6ClUyaVlXVEVxelgzb0NKZGx0MmV5dFJ4ak9EWVpCUG9zbGpIRGIrMzJqR1VYVXYrdWo4ZEpTMHBTVWVhZGVLUkdGSFFCcjVuUFVlb3F4N0FXcU1wbEJnPT0K",
+      "url": "https://github.com/marcokoste/scriptflip-releases/releases/download/companion-v1.3.4/Companion-1.3.4-universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFRyTTFpbEgzV0cvK2JiTmFvcHFvYmJ3MnpkWkpYcUUzeFdYSk1ySUNQNXE1d2ovamlCUUZqWC9acml6bURJbDRBbFVtSkRoSm5qRGl1ZGlWbTlDSGJIditaUmtWRHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTk0NjQwCWZpbGU6Q29tcGFuaW9uLTEuMy4zLXVuaXZlcnNhbC5hcHAudGFyLmd6Ck5PUll0akIwSVlRRkhITTNJRnk4SFJCR1ZuOUlQcXhXSXpjay91ZkY0Smg0REp2K2gxa3ovNnNjNnY4NldRcUNoclRMUlQvODBsMXUwcVlDTWFzbEN3PT0K",
-      "url": "https://github.com/marcokoste/scriptflip-releases/releases/download/companion-v1.3.3/Companion-1.3.3-universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFRyTTFpbEgzV0RHMlJwQUd1RVZIT2FLc0NnL3FhSWJ6aGRvN0dQYUtBdnRHT05NY0w1L2pvcm1tcm42L1djeDJxL2J4ZmtTMHJBSDk5M1lucnczZ0NBT0NpUzl2UGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMTk0ODQ4CWZpbGU6Q29tcGFuaW9uLTEuMy40LXVuaXZlcnNhbC5hcHAudGFyLmd6ClUyaVlXVEVxelgzb0NKZGx0MmV5dFJ4ak9EWVpCUG9zbGpIRGIrMzJqR1VYVXYrdWo4ZEpTMHBTVWVhZGVLUkdGSFFCcjVuUFVlb3F4N0FXcU1wbEJnPT0K",
+      "url": "https://github.com/marcokoste/scriptflip-releases/releases/download/companion-v1.3.4/Companion-1.3.4-universal.app.tar.gz"
     }
   }
 }
